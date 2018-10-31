@@ -1,1 +1,2 @@
 This is the new txt file
+add new feature
